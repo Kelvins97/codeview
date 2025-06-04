@@ -32,3 +32,7 @@ Track, visualize, and navigate your code changes with an intuitive timeline inte
 ![Restore](Restore.png)
 
 ![Snapshot](Snapshot.png)
+
+##Demo Video
+[![Watch Demo](demo-thumbnail.png)](https://www.loom.com/share/caad3650fd32409a9afd6588055a1ca7)
+
