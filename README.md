@@ -35,5 +35,5 @@ Track, visualize, and navigate your code changes with an intuitive timeline inte
 
 ## Demo Video
 
-[![Watch Demo](https://www.loom.com/i/c1cc3ac320ec45ca907c5bf1d62ae834)](https://www.loom.com/share/caad3650fd32409a9afd6588055a1ca7)
+[![Watch Demo](demo-thumbnail.png](https://www.loom.com/share/caad3650fd32409a9afd6588055a1ca7)
 
